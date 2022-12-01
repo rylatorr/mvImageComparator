@@ -17,6 +17,8 @@ to detect if there is _enough_ similarity between the current and reference imag
 If the scene is not similar enough a notification is sent. The notification includes the name and a 
 direct link to the camera.
 
+![Sample comparison between two images with obfuscation](sample_result_bad.jpg)
+
 ![Suspicious Camera notification](notification.png)
 
 ## Call For Contributors
