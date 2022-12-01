@@ -1,0 +1,6 @@
+meraki
+scikit-image
+opencv-python
+opencv-contrib-python
+imutils
+matplotlib # if using beblid
